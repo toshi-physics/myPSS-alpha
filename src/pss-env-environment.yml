@@ -1,0 +1,11 @@
+name: pss-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - tqdm
+  - ipykernel
+  - matplotlib
+prefix: /Users/toship/miniconda3/envs/pss-env

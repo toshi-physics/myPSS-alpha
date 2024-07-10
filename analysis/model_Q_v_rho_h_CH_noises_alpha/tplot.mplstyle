@@ -1,0 +1,25 @@
+# Matplotlib style for two-column journal plots
+
+# Set default figure size
+figure.figsize : 3.3, 2.5
+figure.dpi : 600
+figure.subplot.bottom: 0.128
+figure.subplot.top: 0.98
+figure.subplot.right: 0.88
+
+# Font sizes
+font.size : 8
+font.family : serif
+font.serif : Computer Modern
+
+text.usetex: True
+
+xtick.minor.visible : True
+ytick.minor.visible : True
+xtick.top : True
+ytick.right : True 
+xtick.direction: in
+ytick.direction: in
+
+lines.markersize : 3
+lines.linewidth : 1
